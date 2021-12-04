@@ -1,10 +1,11 @@
 import React from 'react';
-//import CartItem from './CartItem';
 import Cart from './Cart';
+import NarBar from './NavBar';
 
 function App() {
   return (
     <div className="App">
+      <NarBar />
       <Cart />
     </div>
   );

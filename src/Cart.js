@@ -15,7 +15,7 @@ class Cart extends React.Component {
         },
         {
             price: 50000,
-            title: 'Lpatop',
+            title: 'Laptop',
             qty: 1,
             img: '',
             id: 2
